@@ -8,6 +8,8 @@ This Repositorie contains all the code that I made during my "Piscine" (March 20
 
 ## Voici mes résultats / Here is my results:
 
+Shell_00	: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/c-piscine-shell-00)](https://github.com/JaeSeoKim/badge42)
+
 ```
 Shell_00	  : 100%
 Shell_01	  : 100%
