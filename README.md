@@ -40,13 +40,13 @@ C_13 : $\color[RGB]{206,204,206} --$
 
 Rush_00 : $\color[RGB]{0,204,102} 120✓$
 
-Rush_01 : $\color[RGB]{216,21,139} 0X$ (have been updated)
+Rush_01 : $\color[RGB]{216,21,139} 0×$ (have been updated)
 
-Rush_02	: $\color[RGB]{216,21,139} 10X$
+Rush_02	: $\color[RGB]{216,21,139} 10×$
 
-BSQ	: $\color[RGB]{216,21,139} 50X$
+BSQ	: $\color[RGB]{216,21,139} 50×$
 
-Exam_00	: $\color[RGB]{216,21,139} 0X$
+Exam_00	: $\color[RGB]{216,21,139} 0×$
 
 Exam_01	: $\color[RGB]{0,204,102} 80✓$
 
